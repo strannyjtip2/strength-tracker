@@ -1,4 +1,4 @@
-const CACHE = "strength-tracker-v3";
+const CACHE = "strength-tracker-v4";
 const ASSETS = [
   "./",
   "./index.html",
